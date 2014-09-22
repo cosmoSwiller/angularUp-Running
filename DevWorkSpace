@@ -1,0 +1,750 @@
+<NotepadPlus>
+    <Project name="DEVELOPMENT">
+        <Folder name="angularUp-Running">
+            <Folder name="lib">
+                <Folder name="angular">
+                    <File name="angularUp-Running\lib\angular\angular.min.js" />
+                    <File name="angularUp-Running\lib\angular\angular.min.js.map" />
+                </Folder>
+            </Folder>
+            <File name="angularUp-Running\angular.html" />
+            <File name="angularUp-Running\README.md" />
+            <Folder name="js">
+                <File name="angularUp-Running\js\controllers.js" />
+            </Folder>
+        </Folder>
+        <Folder name="eBooksVids">
+            <Folder name="Lynda - Up and Running with AngularJS (2014)">
+                <Folder name="0. Introduction">
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\0. Introduction\01 Welcome.mp4" />
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\0. Introduction\02 What you should know.mp4" />
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\0. Introduction\03 Using the exercise files.mp4" />
+                </Folder>
+                <Folder name="1. Getting Started">
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\1. Getting Started\01 What is AngularJS.mp4" />
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\1. Getting Started\02 Installing and running a basic application.mp4" />
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\1. Getting Started\03 Understanding the Model-View-Controller architecture.mp4" />
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\1. Getting Started\04 Using modules and scope.mp4" />
+                </Folder>
+                <Folder name="2. Working with Models">
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\2. Working with Models\01 Working with complex models.mp4" />
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\2. Working with Models\02 Using the $http service to read a JSON file.mp4" />
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\2. Working with Models\03 Filtering content using directives.mp4" />
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\2. Working with Models\04 Binding to input fields through filters.mp4" />
+                </Folder>
+                <Folder name="3. Dividing your App into Partials">
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\3. Dividing your App into Partials\01 Setting up deep linking.mp4" />
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\3. Dividing your App into Partials\02 Working with the $routeProvider service.mp4" />
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\3. Dividing your App into Partials\03 Wiring up a second partial.mp4" />
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\3. Dividing your App into Partials\04 Creating our details template.mp4" />
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\3. Dividing your App into Partials\05 Adding navigation to our details page.mp4" />
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\3. Dividing your App into Partials\06 Using Angular animation events.mp4" />
+                </Folder>
+                <Folder name="Conclusion">
+                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Conclusion\01 Next steps.mp4" />
+                </Folder>
+                <Folder name="Exercise Files">
+                    <Folder name="01_02">
+                        <Folder name="finished">
+                            <Folder name="angular">
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\01_02\finished\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\01_02\finished\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                    </Folder>
+                    <Folder name="01_03">
+                        <Folder name="finished">
+                            <Folder name="angular">
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\01_03\finished\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\01_03\finished\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                        <Folder name="start">
+                            <Folder name="angular">
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\01_03\start\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\01_03\start\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                    </Folder>
+                    <Folder name="01_04">
+                        <Folder name="finished">
+                            <Folder name="angular">
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\01_04\finished\angular\js\controllers.js" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\01_04\finished\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\01_04\finished\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                        <Folder name="start">
+                            <Folder name="angular">
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\01_04\start\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\01_04\start\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                    </Folder>
+                    <Folder name="02_01">
+                        <Folder name="finished">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\finished\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\finished\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\finished\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\finished\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\finished\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\finished\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\finished\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\finished\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\finished\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\finished\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\finished\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\finished\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\finished\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\finished\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                        <Folder name="start">
+                            <Folder name="angular">
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\start\angular\js\controllers.js" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\start\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\start\angular\index.html" />
+                            </Folder>
+                            <Folder name="css">
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\start\css\style.css" />
+                            </Folder>
+                            <Folder name="images">
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\start\images\Barot_Bellingham_tn.jpg" />
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\start\images\Constance_Smith_tn.jpg" />
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\start\images\Hassum_Harrod_tn.jpg" />
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\start\images\Hillary_Goldwynn_tn.jpg" />
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\start\images\Jennifer_Jerome_tn.jpg" />
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\start\images\Jonathan_Ferrar_tn.jpg" />
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\start\images\LaVonne_LaRue_tn.jpg" />
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\start\images\Riley_Rewington_tn.jpg" />
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\start\images\Xhou_Ta_tn.jpg" />
+                            </Folder>
+                            <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_01\start\data.json" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="02_02">
+                        <Folder name="finished">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\finished\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\finished\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\finished\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\finished\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\finished\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\finished\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\finished\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\finished\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\finished\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\finished\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\finished\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\finished\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\finished\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\finished\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                        <Folder name="start">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\start\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\start\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\start\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\start\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\start\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\start\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\start\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\start\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\start\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\start\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\start\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\start\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\start\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_02\start\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                    </Folder>
+                    <Folder name="02_03">
+                        <Folder name="finished">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\finished\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\finished\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\finished\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\finished\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\finished\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\finished\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\finished\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\finished\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\finished\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\finished\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\finished\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\finished\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\finished\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\finished\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                        <Folder name="start">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\start\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\start\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\start\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\start\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\start\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\start\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\start\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\start\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\start\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\start\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\start\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\start\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\start\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_03\start\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                    </Folder>
+                    <Folder name="02_04">
+                        <Folder name="finished">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\finished\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\finished\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\finished\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\finished\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\finished\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\finished\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\finished\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\finished\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\finished\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\finished\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\finished\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\finished\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\finished\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\finished\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                        <Folder name="start">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\start\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\start\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\start\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\start\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\start\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\start\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\start\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\start\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\start\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\start\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\start\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\start\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\start\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\02_04\start\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                    </Folder>
+                    <Folder name="03_01">
+                        <Folder name="finished">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\finished\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\finished\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\finished\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\finished\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\finished\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\finished\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\finished\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\finished\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\finished\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\finished\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\finished\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\finished\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\finished\angular\lib\angular\angular-route.min.js" />
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\finished\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <Folder name="partials">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\finished\angular\partials\list.html" />
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\finished\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                        <Folder name="start">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\start\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\start\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\start\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\start\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\start\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\start\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\start\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\start\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\start\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\start\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\start\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\start\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\start\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_01\start\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                    </Folder>
+                    <Folder name="03_02">
+                        <Folder name="finished">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\finished\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\finished\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\finished\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\finished\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\finished\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\finished\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\finished\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\finished\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\finished\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\finished\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\finished\angular\js\app.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\finished\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\finished\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\finished\angular\lib\angular\angular-route.min.js" />
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\finished\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <Folder name="partials">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\finished\angular\partials\list.html" />
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\finished\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                        <Folder name="start">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\start\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\start\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\start\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\start\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\start\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\start\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\start\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\start\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\start\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\start\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\start\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\start\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\start\angular\lib\angular\angular-route.min.js" />
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\start\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <Folder name="partials">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\start\angular\partials\list.html" />
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_02\start\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                    </Folder>
+                    <Folder name="03_03">
+                        <Folder name="finished">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\finished\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\finished\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\finished\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\finished\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\finished\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\finished\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\finished\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\finished\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\finished\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\finished\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\finished\angular\js\app.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\finished\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\finished\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\finished\angular\lib\angular\angular-route.min.js" />
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\finished\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <Folder name="partials">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\finished\angular\partials\list.html" />
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\finished\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                        <Folder name="start">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\start\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\start\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\start\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\start\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\start\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\start\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\start\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\start\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\start\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\start\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\start\angular\js\app.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\start\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\start\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\start\angular\lib\angular\angular-route.min.js" />
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\start\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <Folder name="partials">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\start\angular\partials\list.html" />
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_03\start\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                    </Folder>
+                    <Folder name="03_04">
+                        <Folder name="finished">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\js\app.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\lib\angular\angular-route.min.js" />
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <Folder name="partials">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\partials\details.html" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\partials\list.html" />
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\finished\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                        <Folder name="start">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\start\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\start\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\start\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\start\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\start\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\start\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\start\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\start\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\start\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\start\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\start\angular\js\app.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\start\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\start\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\start\angular\lib\angular\angular-route.min.js" />
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\start\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <Folder name="partials">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\start\angular\partials\list.html" />
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_04\start\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                    </Folder>
+                    <Folder name="03_05">
+                        <Folder name="finished">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\js\app.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\lib\angular\angular-route.min.js" />
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <Folder name="partials">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\partials\details.html" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\partials\list.html" />
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\finished\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                        <Folder name="start">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\js\app.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\lib\angular\angular-route.min.js" />
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <Folder name="partials">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\partials\details.html" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\partials\list.html" />
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_05\start\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                    </Folder>
+                    <Folder name="03_06">
+                        <Folder name="finished">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\js\app.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\lib\angular\angular-animate.min.js" />
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\lib\angular\angular-route.min.js" />
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <Folder name="partials">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\partials\details.html" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\partials\list.html" />
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\finished\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                        <Folder name="start">
+                            <Folder name="angular">
+                                <Folder name="css">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\css\style.css" />
+                                </Folder>
+                                <Folder name="images">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\images\Barot_Bellingham_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\images\Constance_Smith_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\images\Hassum_Harrod_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\images\Hillary_Goldwynn_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\images\Jennifer_Jerome_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\images\Jonathan_Ferrar_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\images\LaVonne_LaRue_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\images\Riley_Rewington_tn.jpg" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\images\Xhou_Ta_tn.jpg" />
+                                </Folder>
+                                <Folder name="js">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\js\app.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\js\controllers.js" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\js\data.json" />
+                                </Folder>
+                                <Folder name="lib">
+                                    <Folder name="angular">
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\lib\angular\angular-route.min.js" />
+                                        <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\lib\angular\angular.min.js" />
+                                    </Folder>
+                                </Folder>
+                                <Folder name="partials">
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\partials\details.html" />
+                                    <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\partials\list.html" />
+                                </Folder>
+                                <File name="eBooksVids\Lynda - Up and Running with AngularJS (2014)\Exercise Files\03_06\start\angular\index.html" />
+                            </Folder>
+                        </Folder>
+                    </Folder>
+                </Folder>
+            </Folder>
+        </Folder>
+        <File name="README.md" />
+    </Project>
+</NotepadPlus>
